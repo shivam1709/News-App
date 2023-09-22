@@ -26,4 +26,4 @@ Run the app on your preferred device or emulator.
 Feel free to explore, use, and contribute to this project. We believe in open collaboration to create a better news experience for everyone. Enjoy staying informed! 🌐
 
 Contact
-For inquiries or collaboration opportunities, please reach out to me on LinkedIn [Your LinkedIn Profile] or via email at [Your Email Address]. Your feedback and suggestions are highly appreciated.
+For inquiries or collaboration opportunities, please reach out to me on LinkedIn https://www.linkedin.com/in/shivamhingu/ or via email at shivamhingu1999@gmail.com. Your feedback and suggestions are highly appreciated.
